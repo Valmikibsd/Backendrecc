@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xml-header>
+	<error>
+		<unf>User not found.</unf>
+		<auf>Authentication failed.</auf>
+		<dau>User is deactivated by Admin. Please contact system administrator to activate your account.</dau>
+		<deu>User is deleted in the system.</deu>
+		<alk>User account is locked.Please contact system administrator to unlock your account.</alk>
+		<tpx>Temporary User password is expired</tpx>
+		<rpx>User password is expired</rpx>
+		<invalid-credential>Invalid credentials. Please try again with valid credentials.</invalid-credential>
+		<login-otp-expired>Login OTP is Expired</login-otp-expired>
+		<login-otp-not-generated>Unable to generate OTP for login</login-otp-not-generated>
+		<Invalid-OTP>OTP is invalid</Invalid-OTP>
+		<OTP-Expired>OTP is expired</OTP-Expired>
+		<invalid-user>User does not exists in the system</invalid-user>
+		<forgot-password-invalid>Forgot password token is invalid</forgot-password-invalid>
+		<forgot-password-token-exipred>Forgot password token is expired</forgot-password-token-exipred>
+		<internal-server-error-message> Please contact administrator for this error.</internal-server-error-message>
+		<password-reset-mail-success>Forgot password link send successfully</password-reset-mail-success>
+		<password-already-exists> Password cannot be same as last {prev-password-limit} password.</password-already-exists>
+    <actincompl>User Activation Incomplete.Please contact system administrator to activate your account.</actincompl>
+    <dei>User Deactivated due to inactivity.Please contact system administrator to activate your account.</dei>		
+	</error> 
+</xml-header>

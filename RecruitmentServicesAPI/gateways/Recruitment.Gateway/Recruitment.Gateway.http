@@ -1,0 +1,6 @@
+@Recruitment.Gateway_HostAddress = http://localhost:5082
+
+GET {{Recruitment.Gateway_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
